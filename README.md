@@ -61,7 +61,6 @@ Consulta dados históricos de ações com base no símbolo fornecido.
 | `Low`          | objeto | Preço mais baixo por timestamp.                  |
 | `Open`         | objeto | Preço de abertura por timestamp.                 |
 | `Stock Splits` | objeto | Eventos de desdobramento de ações por timestamp. |
-| `Time`         | array  | Lista de timestamps dos dados.                   |
 | `Volume`       | objeto | Volume negociado por timestamp.                  |
 
 **Exemplo de Resposta:**
